@@ -1,0 +1,5 @@
+Username=
+Password=
+User=
+Profile=Profile 1
+URL=https://www.mykonicaminolta.com/wps/portal/mkm/hidden/login/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDTxdnD0cgw18LPw8DAwcQx0tgp0tnY18DUz1wwkpiAJJ4wCOBkD9UViUOBo4BRk5GRsYuFsYYFWAYkZBboRBpqOiIgBio8Db/dz/d5/L2dBISEvZ0FBIS9nQSEh/
